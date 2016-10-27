@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "": "src"
+        }
+    },
+    "require": {
+        "sensorario/wheel-framework": "^1.1",
+        "sensorario/wheel-container": "1.0.2"
+    }
+}
