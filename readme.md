@@ -1,3 +1,10 @@
+# Install 
+
+```bash
+prompt> composer create-project sensorario/wheel-basic-app --prefer-dist
+prompt> php -S localhost:8666 -t web
+```
+
 # Wheel basic application
 
 ```bash
