@@ -6,7 +6,7 @@ use Sensorario\WheelFramework\Controllers\Controller;
 
 class DefaultController extends Controller
 {
-    public function default()
+    public function action()
     {
         $response = [
             'message' => 'welcome',
