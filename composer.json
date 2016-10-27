@@ -8,13 +8,18 @@
             "email": "sensorario@gmail.com"
         }
     ],
-        "autoload": {
-            "psr-4": {
-                "": "src"
-            }
-        },
-        "require": {
-            "sensorario/wheel-framework": "^1.1",
-            "sensorario/wheel-container": "1.0.2"
+    "autoload": {
+        "psr-4": {
+            "": "src"
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.x-dev"
+        }
+    },
+    "require": {
+        "sensorario/wheel-framework": "^1.1",
+        "sensorario/wheel-container": "1.0.2"
+    }
 }
