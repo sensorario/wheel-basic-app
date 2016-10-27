@@ -1,11 +1,20 @@
 {
-    "autoload": {
-        "psr-4": {
-            "": "src"
+    "name": "sensorario/wheel-basic-app",
+        "description": "basic application based on wheel components",
+        "license": "MIT",
+        "authors": [
+        {
+            "name": "Simone Gentili",
+            "email": "sensorario@gmail.com"
         }
-    },
-    "require": {
-        "sensorario/wheel-framework": "^1.1",
-        "sensorario/wheel-container": "1.0.2"
-    }
+    ],
+        "autoload": {
+            "psr-4": {
+                "": "src"
+            }
+        },
+        "require": {
+            "sensorario/wheel-framework": "^1.1",
+            "sensorario/wheel-container": "1.0.2"
+        }
 }
