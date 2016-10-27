@@ -12,7 +12,6 @@
  │           └── DefaultController.php
  ├── web
  │   └── index.php
- ├── .gitignore
  ├── composer.json
  ├── composer.lock
  └── readme.md

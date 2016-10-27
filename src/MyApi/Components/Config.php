@@ -15,7 +15,7 @@ class Config implements SensorarioConfig
                 '/' => array(
                     'controller' => 'MyApi\\Controllers\\DefaultController',
                     'GET' => array(
-                        'action' => 'default'
+                        'action' => 'action'
                     ),
                 ),
             ),
