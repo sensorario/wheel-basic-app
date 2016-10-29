@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "5f1cb0f07e417ce4f62b1cca5a4f0fa4",
-    "content-hash": "37c5f3c12533d029fbbd218820441785",
+    "hash": "2c02f1b467469e7e04c1efc1c7c35e17",
+    "content-hash": "8e219baeeb950e60b06e7983e61eb6b5",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -1877,16 +1877,16 @@
         },
         {
             "name": "sensorario/wheel-framework",
-            "version": "1.1.4",
+            "version": "1.1.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sensorario/wheel-framework.git",
-                "reference": "5de5bb1bbf04df730c02d7160edfa662cba56fad"
+                "reference": "b85bcf253b0f573e9de576e305b243a5443b9252"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sensorario/wheel-framework/zipball/5de5bb1bbf04df730c02d7160edfa662cba56fad",
-                "reference": "5de5bb1bbf04df730c02d7160edfa662cba56fad",
+                "url": "https://api.github.com/repos/sensorario/wheel-framework/zipball/b85bcf253b0f573e9de576e305b243a5443b9252",
+                "reference": "b85bcf253b0f573e9de576e305b243a5443b9252",
                 "shasum": ""
             },
             "require": {
@@ -1918,7 +1918,7 @@
                 }
             ],
             "description": "lol framework",
-            "time": "2016-10-27 08:58:07"
+            "time": "2016-10-28 18:42:23"
         },
         {
             "name": "symfony/console",
